@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ENSEKClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64f61d31ddbbd39091c1da1c14a2772f2dae8ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ENSEKClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ENSEKClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

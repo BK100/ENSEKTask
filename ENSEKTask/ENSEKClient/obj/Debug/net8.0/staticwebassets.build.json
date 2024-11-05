@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b1CbbEIRREWopsQWiUew/oP2nv+zdQi7ARbnIp0YahI=",
+  "Hash": "UTIpAaVYD04XRbbTA3WTXCyPe4P3+h1F4CzjeX61H+E=",
   "Source": "ENSEKClient",
   "BasePath": "_content/ENSEKClient",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ENSEKClient\\wwwroot",
       "Source": "ENSEKClient",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\",
       "BasePath": "_content/ENSEKClient",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ENSEKClient.styles.css",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ENSEKClient.styles.css",
       "SourceId": "ENSEKClient",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "ENSEKClient.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ENSEKClient.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ENSEKClient.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ENSEKClient.bundle.scp.css",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ENSEKClient.bundle.scp.css",
       "SourceId": "ENSEKClient",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "ENSEKClient.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ENSEKClient.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ENSEKClient.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\app.css",
       "SourceId": "ENSEKClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ENSEKClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ENSEKClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\favicon.png",
       "SourceId": "ENSEKClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\wwwroot\\",
       "BasePath": "_content/ENSEKClient",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

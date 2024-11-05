@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ENSEKTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64f61d31ddbbd39091c1da1c14a2772f2dae8ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ENSEKTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ENSEKTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
