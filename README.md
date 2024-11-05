@@ -1,6 +1,6 @@
 # ENSEK CSV Parser
 
-Note - A frontend with CSV upload has been implemented, but data appears to be formatted incorrectly through some undetermined mechanism somewhere in the pipeline - as such, it is recommended to just send the CSV string data directly in a request object to the API controller.
+Note - A frontend with CSV upload has been implemented, but data appears to be formatted incorrectly through some undetermined mechanism somewhere in the pipeline - as such, it is recommended to just send the CSV string data directly in a request object to the API controller. The frontend has been included as a proof of concept.
 
 Example request JSON -
 
