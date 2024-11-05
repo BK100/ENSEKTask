@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ENSEKClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ENSEKClient.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\source\\repos\\ENSEKTask\\ENSEKClient\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ENSEKClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ENSEKClient.props",
+      "PackagePath": "build\\ENSEKClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ENSEKClient.props",
+      "PackagePath": "buildMultiTargeting\\ENSEKClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ENSEKClient.props",
+      "PackagePath": "buildTransitive\\ENSEKClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,45 @@
+﻿@page "/"
+@using ENSEKClient.Helpers;
+@using ENSEKClient.Models.Interfaces
+@using System.Text
+@attribute [StreamRendering]
+@inject IHttpClientFactory ClientFactory
+@inject IHTTPHelper Helper
+@rendermode InteractiveServer
+
+<PageTitle>ENSEK Task</PageTitle>
+
+<h1>Customers</h1>
+
+<InputFile OnChange="@ParseCSV"/>
+
+<Button @onclick="() => UploadCSV()">UploadCSV</Button>
+
+@code {
+    // Objects for form bindings
+    private string csv = "";
+
+    // HTTP Client for API connection
+    private HttpClient client;
+
+    protected override async Task OnInitializedAsync()
+    {
+        client = ClientFactory.CreateClient();
+    }
+
+    private async Task ParseCSV(InputFileChangeEventArgs e)
+    {
+        MemoryStream ms = new MemoryStream();
+        await e.File.OpenReadStream().CopyToAsync(ms);
+        var bytes = ms.ToArray();
+        csv = Encoding.UTF8.GetString(bytes);
+    }
+
+    private async Task UploadCSV()
+    {
+        // Retrieves the customer profile data from a backend API call for rendering
+        Thread.Sleep(100);
+
+        var response = await Helper.UploadCSV(client, csv);
+    }
+}

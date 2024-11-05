@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\helpers\\fileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\helpers\\fileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\controllers\\meterreadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\controllers\\meterreadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\models\\interfaces\\ihttphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\models\\interfaces\\ihttphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\models\\meterreadingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\models\\meterreadingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\interfaces\\ifileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\interfaces\\ifileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\models\\meterreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\models\\meterreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\meterreadingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\meterreadingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensekclient\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DC03CD-6123-461C-8286-D77244FD2791}|ENSEKClient\\ENSEKClient.csproj|solutionrelative:ensekclient\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\helpers\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\helpers\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\interfaces\\ifilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\interfaces\\ifilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\interfaces\\idbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\interfaces\\idbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\meterreadingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\meterreadingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\accounts\\accountsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\accounts\\accountsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\meterreadingsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\meterreadingsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\20241105135805_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\20241105135805_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\20241105151605_datetostring3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\20241105151605_datetostring3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\20241105142134_datetostring2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\20241105142134_datetostring2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\meterreadings\\20241105142039_datetostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\meterreadings\\20241105142039_datetostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\data\\accounts\\accountsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\data\\accounts\\accountsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|c:\\users\\floof\\desktop\\game\\repo\\ensektask\\ensektask\\ensektask\\models\\meterreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30943BCE-C05F-442B-9A65-E96A4417B1D7}|ENSEKTask\\ENSEKTask.csproj|solutionrelative:ensektask\\models\\meterreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ENSEKClient\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ENSEKClient\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T16:22:31.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ENSEKClient\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Routes.razor",
+              "RelativeToolTip": "ENSEKClient\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T16:22:27.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Account.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:31:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeterReadingsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContext.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContext.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContext.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:30:18.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Program.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Program.cs",
+              "RelativeToolTip": "ENSEKTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:50:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeterReading.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReading.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\MeterReading.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReading.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\MeterReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:58:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\DbHelper.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Helpers\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\DbHelper.cs",
+              "RelativeToolTip": "ENSEKTask\\Helpers\\DbHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:26:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileParser.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\FileParser.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Helpers\\FileParser.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\FileParser.cs",
+              "RelativeToolTip": "ENSEKTask\\Helpers\\FileParser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:26:01.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileParser.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IFileParser.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\Interfaces\\IFileParser.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IFileParser.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\Interfaces\\IFileParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:25:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeterReadingController.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Controllers\\MeterReadingController.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Controllers\\MeterReadingController.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Controllers\\MeterReadingController.cs",
+              "RelativeToolTip": "ENSEKTask\\Controllers\\MeterReadingController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:22:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Program.cs",
+              "RelativeDocumentMoniker": "ENSEKClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Program.cs",
+              "RelativeToolTip": "ENSEKClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:37:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeterReadingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\MeterReadingRequest.cs",
+              "RelativeDocumentMoniker": "ENSEKClient\\Models\\MeterReadingRequest.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\MeterReadingRequest.cs",
+              "RelativeToolTip": "ENSEKClient\\Models\\MeterReadingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:42:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHTTPHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\Interfaces\\IHTTPHelper.cs",
+              "RelativeDocumentMoniker": "ENSEKClient\\Models\\Interfaces\\IHTTPHelper.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\Interfaces\\IHTTPHelper.cs",
+              "RelativeToolTip": "ENSEKClient\\Models\\Interfaces\\IHTTPHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:30:16.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HTTPHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Helpers\\HTTPHelper.cs",
+              "RelativeDocumentMoniker": "ENSEKClient\\Helpers\\HTTPHelper.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Helpers\\HTTPHelper.cs",
+              "RelativeToolTip": "ENSEKClient\\Helpers\\HTTPHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:24:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ENSEKClient\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ENSEKClient\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T16:22:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeterReadingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\MeterReadingResponse.cs",
+              "RelativeDocumentMoniker": "ENSEKClient\\Models\\MeterReadingResponse.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKClient\\Models\\MeterReadingResponse.cs",
+              "RelativeToolTip": "ENSEKClient\\Models\\MeterReadingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:43:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeterReadingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReadingRequest.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\MeterReadingRequest.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReadingRequest.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\MeterReadingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:47:12.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeterReadingsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\MeterReadingsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:58:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IDbHelper.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\Interfaces\\IDbHelper.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IDbHelper.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\Interfaces\\IDbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:25:45.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241105135805_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105135805_Initial.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\20241105135805_Initial.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105135805_Initial.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\20241105135805_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:21:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\FileValidator.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Helpers\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Helpers\\FileValidator.cs",
+              "RelativeToolTip": "ENSEKTask\\Helpers\\FileValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:24:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IFileValidator.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\Interfaces\\IFileValidator.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\Interfaces\\IFileValidator.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\Interfaces\\IFileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:23:56.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\Accounts\\AccountsDbContext.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\Accounts\\AccountsDbContext.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\Accounts\\AccountsDbContext.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\Accounts\\AccountsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:51:50.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\appsettings.json",
+              "RelativeDocumentMoniker": "ENSEKTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\appsettings.json",
+              "RelativeToolTip": "ENSEKTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T13:44:34.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241105142039_DateToString.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105142039_DateToString.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\20241105142039_DateToString.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105142039_DateToString.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\20241105142039_DateToString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:20:56.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241105151605_DateToString3.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105151605_DateToString3.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\20241105151605_DateToString3.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105151605_DateToString3.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\20241105151605_DateToString3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:16:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241105142134_DateToString2.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105142134_DateToString2.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\MeterReadings\\20241105142134_DateToString2.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\MeterReadings\\20241105142134_DateToString2.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\MeterReadings\\20241105142134_DateToString2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:21:36.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\Accounts\\AccountsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Data\\Accounts\\AccountsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Data\\Accounts\\AccountsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ENSEKTask\\Data\\Accounts\\AccountsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:57:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MeterReadingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReadingResponse.cs",
+              "RelativeDocumentMoniker": "ENSEKTask\\Models\\MeterReadingResponse.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\ENSEKTask\\ENSEKTask\\ENSEKTask\\Models\\MeterReadingResponse.cs",
+              "RelativeToolTip": "ENSEKTask\\Models\\MeterReadingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:48:30.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

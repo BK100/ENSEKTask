@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ENSEKTask.Controllers.MeterReadingController",
+    "Method": "ProcessReadings",
+    "RelativePath": "meter-reading-uploads",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ENSEKTask.Models.MeterReadingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ENSEKTask.Models.MeterReadingResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
